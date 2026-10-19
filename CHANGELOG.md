@@ -6,8 +6,13 @@ ISO-8601. The site version tracks the Cairn release it presents.
 
 ## [Unreleased]
 
+## [0.2.4] — 2026-10-19
+
 ### Added
 - Code of conduct (Contributor Covenant), issue and pull-request templates.
+
+### Changed
+- Repository links point to the `opencairn-org` GitHub organization.
 
 ## [0.2.3] — 2026-10-15
 
@@ -41,6 +46,7 @@ https://opencairn.org), presenting Cairn v0.2.0.
 - Summit Teal theme matching the Cairn web UI; self-hosted fonts; no external
   requests.
 
+[0.2.4]: https://github.com/opencairn-org/cairn-site/releases/tag/v0.2.4
 [0.2.3]: https://github.com/johnnycube/cairn-site/releases/tag/v0.2.3
 [0.2.2]: https://github.com/johnnycube/cairn-site/releases/tag/v0.2.2
 [0.2.1]: https://github.com/johnnycube/cairn-site/releases/tag/v0.2.1
