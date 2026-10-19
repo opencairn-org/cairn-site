@@ -1,6 +1,6 @@
 # cairn-site
 
-The marketing / showcase site for [Cairn](https://github.com/johnnycube/cairn-core)
+The marketing / showcase site for [Cairn](https://github.com/opencairn-org/cairn-core)
 — a self-hosted, multi-source activity tracker. Served at https://opencairn.org;
 docs live at https://docs.opencairn.org.
 

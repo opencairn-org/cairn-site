@@ -8,4 +8,4 @@ Reports are acknowledged within a few days. Only the currently deployed site
 (https://opencairn.org) is supported.
 
 Vulnerabilities in Cairn itself belong to
-[cairn-core](https://github.com/johnnycube/cairn-core).
+[cairn-core](https://github.com/opencairn-org/cairn-core).
